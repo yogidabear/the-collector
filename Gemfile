@@ -34,3 +34,6 @@ group :test do
   # Pretty printed test output
   gem 'turn', '~> 0.8.3', :require => false
 end
+gem "tire"
+gem "will_paginate", "~> 3.0"
+gem "therubyracer"
